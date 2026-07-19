@@ -1,0 +1,4 @@
+interface:
+  display_name: "明辰代码图谱"
+  short_description: "帮助在改代码之前梳理项目结构、调用路径和风险影响范围"
+  default_prompt: "使用 $mingchen-codefactory 在修改前分析这个项目的结构、调用链和影响范围。"
